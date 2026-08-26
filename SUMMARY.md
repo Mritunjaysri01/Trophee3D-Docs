@@ -44,6 +44,11 @@
 * [Trophee SDK Callbacks and Definition](trophee-sdk-callbacks-and-definition.md)
 * [Google Play Data Safety Form](google-play-data-safety-form.md)
 
+## Recent SDK Features
+
+* [In-game banners and OpenRTB](trophee-guide/in-game-banner-and-openrtb.md)
+* [OpenRTB configuration](reference/openrtb-configuration.md)
+
 ## 🤯 Known Issue/Fixes
 
 * [Known Issue / Fixes](known-issue-fixes/known-issue-fixes.md)
