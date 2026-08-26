@@ -1,11 +1,15 @@
-# OpenRTB configuration reference
+# Fallback banner configuration reference
 
-OpenRTB runtime configuration is exposed through `TropheeSDK.Utility.NetworkRequestManager`. Most integrations should use the endpoint delivered during SDK initialization.
+Fallback Banner Demand Channel configuration is exposed through `TropheeSDK.Utility.NetworkRequestManager`. Most integrations should use the endpoint delivered during SDK initialization.
+
+{% hint style="info" %}
+The current SDK retains `OpenRtb` in the following C# identifiers for backward compatibility.
+{% endhint %}
 
 | Member | Type | Purpose |
 | --- | --- | --- |
-| `OpenRtbEndpoint` | `string` | Current shared auction endpoint. |
-| `EnableOpenRtbLogs` | `bool` | Enables OpenRTB diagnostics. |
+| `OpenRtbEndpoint` | `string` | Current shared fallback banner endpoint. |
+| `EnableOpenRtbLogs` | `bool` | Enables fallback banner diagnostics. |
 | `EnableOpenRtbTrackersInEditor` | `bool` | Allows live trackers in the Unity Editor. Default: `false`. |
 | `OpenRtbRequestAttempts` | `int` | Maximum attempts. Values below one are treated as one. Default: `3`. |
 | `IsValidOpenRtbEndpoint(string)` | `bool` | Checks for an absolute HTTP or HTTPS URL with a host. |

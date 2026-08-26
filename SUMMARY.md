@@ -46,8 +46,8 @@
 
 ## Recent SDK Features
 
-* [In-game banners and OpenRTB](trophee-guide/in-game-banner-and-openrtb.md)
-* [OpenRTB configuration](reference/openrtb-configuration.md)
+* [Fallback Banner Demand Channel](trophee-guide/fallback-banner-demand-channel.md)
+* [Fallback banner configuration](reference/fallback-banner-configuration.md)
 
 ## 🤯 Known Issue/Fixes
 
