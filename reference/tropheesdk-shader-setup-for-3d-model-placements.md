@@ -36,7 +36,7 @@ This guide walks you through configuring shaders for 3D model placements in Trop
    * **Use URP Shader** ▶︎ Unchecked\
      Applies the custom GLTF shader designed for the Built-in pipeline.
 
-<figure><img src="../.gitbook/assets/Screenshot 2025-05-12 144627 (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-05-12 144627 (2).png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -59,7 +59,7 @@ If your project uses URP and you encounter pink (magenta) models at runtime or i
     * Save your Graphics asset.
     * Rebuild your project to include the shader in the build.
 
-    <figure><img src="../.gitbook/assets/Screenshot 2025-05-12 152606 (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/Screenshot 2025-05-12 152606.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -85,11 +85,5 @@ For projects **not** using URP:
 | Models appear magenta (pink)     | Shader not included in the build | Add the appropriate TropheeSDK shader to **Always Included Shaders** in Graphics Settings, then rebuild. |
 | Shader selector not visible      | Outdated TropheeSDK version      | Update to the latest TropheeSDK package; ensure the `Use URP Shader` field appears on the component.     |
 | Errors finding shader at runtime | Shader path mismatch             | Verify the exact shader path in your build:                                                              |
-
-
-
-
-
-
 
 ###

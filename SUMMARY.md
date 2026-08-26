@@ -21,12 +21,12 @@
 * [👉 Implementing Trophée Placeholder](trophee-guide/implementing-trophee-placeholder.md)
 * [👉 Sync Trophée Placeholder](trophee-guide/sync-trophee-placeholder.md)
 * [👉 Setting up Trophée Placement via your game logic](trophee-guide/setting-up-trophee-placement-via-your-game-logic.md)
-* [🎯 Gamify  Trophée Placements](trophee-guide/gamify-trophee-placements.md)
+* [🎯 Gamify Trophée Placements](trophee-guide/gamify-trophee-placements.md)
 * [🎁 Trophée Player Gratification](trophee-guide/trophee-player-gratification.md)
 * [Trophee Connected View Ad](trophee-guide/trophee-connected-view-ad/README.md)
   * [🧩 Retro TV Placement Guide](trophee-guide/trophee-connected-view-ad/retro-tv-placement-guide.md)
   * [TropheeConnectedPlayer – Field Reference](trophee-guide/trophee-connected-view-ad/tropheeconnectedplayer-field-reference.md)
-* [Trophee Connected  :](trophee-guide/trophee-connected/README.md)
+* [Trophee Connected :](trophee-guide/trophee-connected/README.md)
   * [🧩 Placement Behavior :](trophee-guide/trophee-connected/placement-behavior.md)
   * [TropheeConnectedRV – Field Reference](trophee-guide/trophee-connected/tropheeconnectedrv-field-reference.md)
   * [Prerequisites:](trophee-guide/trophee-connected/prerequisites.md)
@@ -47,7 +47,6 @@
 ## Recent SDK Features
 
 * [Fallback Banner Demand Channel](trophee-guide/fallback-banner-demand-channel.md)
-* [Fallback banner configuration](reference/fallback-banner-configuration.md)
 
 ## 🤯 Known Issue/Fixes
 

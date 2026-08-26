@@ -27,7 +27,7 @@ This guide outlines the steps for verifying your credentials using the TROPHÉE 
   * **Game ID**: The unique ID of the game you are integrating with TROPHÉE.
 * After entering the IDs, click the `Verify Now` button in the Verification window.
 
-![](<../.gitbook/assets/image (4).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 </details>
 
@@ -48,9 +48,7 @@ This guide outlines the steps for verifying your credentials using the TROPHÉE 
 * The `CampaignEditorWindow` will now be accessible, allowing you to manage your game commerce campaigns.
 
 \
-![](<../.gitbook/assets/image (5).png>)
-
-
+![](<../.gitbook/assets/image (1).png>)
 
 </details>
 

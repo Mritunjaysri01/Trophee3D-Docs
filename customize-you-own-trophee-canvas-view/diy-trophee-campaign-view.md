@@ -143,12 +143,10 @@ Whether you are targeting a **landscape** or **portrait** game, the **TropheeCan
 
 Following these guidelines will help ensure that the Trophee UI components integrate smoothly into your game, providing a polished experience for your players.
 
-
-
 ## Some samples are given below for reference :thumbsup:
 
 <figure><img src="../.gitbook/assets/72 copy.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/7 copy (1).png" alt="" width="368"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7 copy.png" alt="" width="368"><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/Group 54 (1).png" alt="" width="353"><figcaption></figcaption></figure>
